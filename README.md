@@ -5,13 +5,13 @@ Possuo forte interesse em tecnologia, com cursos em programação e ferramentas 
 <br>
 REDES SOCIAIS : 
 
-[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](httpps://telegram.com/sujeitoprogramador)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](httpps://instagram.com/sujeitoprogramador)
+[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](http://t.me/RoPereira2009)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rosangelanpereira5/?igsh=MWhuYTk5MTIxdzQwZg%3D%3D#)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/branca.pereira.5059/)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](httpps://Pinterest.com/sujeitoprogramador)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](httpps://Linkedin.com/sujeitoprogramador)
-[![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=wh)](httpps://TikTok.com/sujeitoprogramador)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](httpps://Youtube.com/sujeitoprogramador)
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://br.pinterest.com/raravel307/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosangelanpereira/)
+[![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=wh)](https://www.tiktok.com/@rosangelapereira2009?_t=ZM-8toPYkC2qhD&_r=1)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@rosangelapereira75)
 
 ![Rosangela GitHub stats](https://github-readme-stats.vercel.app/api?username=Rosangela&show_icons=true&theme=onedark)
 
@@ -28,4 +28,3 @@ Educação
 Empatia
 Respeito
 Humildade
-
