@@ -22,6 +22,13 @@ REDES SOCIAIS :
     <div styLe="display: inline_block"><br/>
     <img aLign="center" alt=javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
+
+## 🌟 Demonstração
+
+[Clique aqui e teste online!](https://mescola.github.io/challenge-amigo-secreto_pt/)
+
+![](./assets/screenshot.png)
+
 <br>
 4 Pilares da vida vem do berço: 
 Educação
